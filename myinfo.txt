@@ -1,2 +1,3 @@
 "Name: Talha Bin Adam" 
 Email: talhatalented@gmail.com
+Faculty: Faculty of Information Technology
